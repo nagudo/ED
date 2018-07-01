@@ -8,35 +8,33 @@ PRESENTACIÓN E INFORMACIÓN DEL MÓDULO DE ENTORNOS DE DESARROLLO
 -	Evaluaciones	3
 -	Horas totales	96
 -	Horas semanales	3
-Evaluación continua	Hasta 15 faltas
-Horario clases	Lunes (15:00 – 16:40, Miércoles (18:35 – 19:25) 
-Horario tutoría	Lunes (16:40 – 17:30)
-Profesor	Ignacio Agudo Sancho
-E-mail	profesornachoagudo@gmail.com
-
-URL de contenidos	https://github.com/nagudo/ED 
+-	Evaluación continua	Hasta 15 faltas
+-	Horario clases	Lunes (15:00 – 16:40, Miércoles (18:35 – 19:25) 
+-	Horario tutoría	Lunes (16:40 – 17:30)
+-	Profesor	Ignacio Agudo Sancho
+-	E-mail	profesornachoagudo@gmail.com
+-	URL de contenidos	https://github.com/nagudo/ED 
 
 
 2. Unidades didácticas.
-Evaluación	U.D.	Título	Horas previstas	Periodo de tiempo
-1	Nº 1	Desarrollo de Software	6	Septiembre
-	Nº 2	Los Programas Software	6	Principio Octubre 
-	Nº 3	Entornos de Desarrollo	8	Octubre - Noviembre
-	Nº 4	Control de Versiones	8	Noviembre
-		Examen 1 (UUDD.: 1, 2, 3 y 4)	2	Diciembre
-2	Nº 5	Documentación y Optimización	6	Diciembre – Enero 
-	Nº 6	Diseño y Realización de Pruebas	6	Enero
-	Nº 7	Pruebas Unitarias y TDD	7	Enero – Febrero 
-	Nº 8	Diagramas de Clases	9	Febrero – Marzo
-		Examen 2 (UUDD.: 5, 6, 7 y 8)	2	Marzo
-3	Nº 9	Diagramas de Comportamiento	9	Marzo
-	Nº 10	Metodologías Tradicionales	4	Abril
-	Nº 11	Metodologías Ágiles	8	Abril – Mayo 
-	Nº 12	Código Limpio	4	Mayo
-		Examen 3 (UUDD.: 9, 10, 11 y 12)	2	Mayo
-		1ª convocatoria ordinaria junio	3	Junio
-		2ª convocatoria ordinaria junio	3	Junio
-Horas totales del módulo:	93	
+-	Nº 1	Desarrollo de Software	6	Septiembre
+-	Nº 2	Los Programas Software	6	Principio Octubre 
+-	Nº 3	Entornos de Desarrollo	8	Octubre - Noviembre
+-	Nº 4	Control de Versiones	8	Noviembre
+-	-	Examen 1 (UUDD.: 1, 2, 3 y 4)	2	Diciembre
+
+-	Nº 5	Documentación y Optimización	6	Diciembre – Enero 
+-	Nº 6	Diseño y Realización de Pruebas	6	Enero
+-	Nº 7	Pruebas Unitarias y TDD	7	Enero – Febrero 
+-	Nº 8	Diagramas de Clases	9	Febrero – Marzo
+-	-	Examen 2 (UUDD.: 5, 6, 7 y 8)	2	Marzo
+-	Nº 9	Diagramas de Comportamiento	9	Marzo
+-	Nº 10	Metodologías Tradicionales	4	Abril
+-	Nº 11	Metodologías Ágiles	8	Abril – Mayo 
+-	Nº 12	Código Limpio	4	Mayo
+-	-	Examen 3 (UUDD.: 9, 10, 11 y 12)	2	Mayo
+-	-	1ª convocatoria ordinaria junio	3	Junio
+-	-	2ª convocatoria ordinaria junio	3	Junio
 
 3. Materiales y recursos.
 - Presentaciones del profesor.
