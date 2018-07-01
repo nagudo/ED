@@ -17,24 +17,24 @@ PRESENTACIÓN E INFORMACIÓN DEL MÓDULO DE ENTORNOS DE DESARROLLO
 
 
 2. Unidades didácticas.
--	Nº 1	Desarrollo de Software	6	Septiembre
--	Nº 2	Los Programas Software	6	Principio Octubre 
--	Nº 3	Entornos de Desarrollo	8	Octubre - Noviembre
--	Nº 4	Control de Versiones	8	Noviembre
-	-	Examen 1 (UUDD.: 1, 2, 3 y 4)	2	Diciembre
+-	Nº 1	Desarrollo de Software	
+-	Nº 2	Los Programas Software	
+-	Nº 3	Entornos de Desarrollo	
+-	Nº 4	Control de Versiones	
+	-	Examen 1 (UUDD.: 1, 2, 3 y 4)	
 
--	Nº 5	Documentación y Optimización	6	Diciembre – Enero 
--	Nº 6	Diseño y Realización de Pruebas	6	Enero
--	Nº 7	Pruebas Unitarias y TDD	7	Enero – Febrero 
--	Nº 8	Diagramas de Clases	9	Febrero – Marzo
-	-	Examen 2 (UUDD.: 5, 6, 7 y 8)	2	Marzo
--	Nº 9	Diagramas de Comportamiento	9	Marzo
--	Nº 10	Metodologías Tradicionales	4	Abril
--	Nº 11	Metodologías Ágiles	8	Abril – Mayo 
+-	Nº 5	Documentación y Optimización	
+-	Nº 6	Diseño y Realización de Pruebas
+-	Nº 7	Pruebas Unitarias y TDD	
+-	Nº 8	Diagramas de Clases	
+	-	Examen 2 (UUDD.: 5, 6, 7 y 8)	
+-	Nº 9	Diagramas de Comportamiento	
+-	Nº 10	Metodologías Tradicionales	
+-	Nº 11	Metodologías Ágiles	 
 -	Nº 12	Código Limpio	4	Mayo
-	-	Examen 3 (UUDD.: 9, 10, 11 y 12)	2	Mayo
-	-	1ª convocatoria ordinaria junio	3	Junio
-	-	2ª convocatoria ordinaria junio	3	Junio
+	-	Examen 3 (UUDD.: 9, 10, 11 y 12)	
+	-	1ª convocatoria ordinaria junio	
+	-	2ª convocatoria ordinaria junio	
 
 3. Materiales y recursos.
 - Presentaciones del profesor.
