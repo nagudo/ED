@@ -2,12 +2,12 @@
 PRESENTACIÓN E INFORMACIÓN DEL MÓDULO DE ENTORNOS DE DESARROLLO
 
 1. Información del ciclo y del módulo.
-Curso	2017/2018
-Ciclo formativo	Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
-Módulo	Entornos de Desarrollo
-Evaluaciones	3
-Horas totales	96
-Horas semanales	3
+-	Curso	2017/2018
+-	Ciclo formativo	Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
+-	Módulo	Entornos de Desarrollo
+-	Evaluaciones	3
+-	Horas totales	96
+-	Horas semanales	3
 Evaluación continua	Hasta 15 faltas
 Horario clases	Lunes (15:00 – 16:40, Miércoles (18:35 – 19:25) 
 Horario tutoría	Lunes (16:40 – 17:30)
