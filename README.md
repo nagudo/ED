@@ -21,7 +21,7 @@ PRESENTACIÓN E INFORMACIÓN DEL MÓDULO DE ENTORNOS DE DESARROLLO
 -	Nº 2	Los Programas Software	6	Principio Octubre 
 -	Nº 3	Entornos de Desarrollo	8	Octubre - Noviembre
 -	Nº 4	Control de Versiones	8	Noviembre
--	-	Examen 1 (UUDD.: 1, 2, 3 y 4)	2	Diciembre
+	-	Examen 1 (UUDD.: 1, 2, 3 y 4)	2	Diciembre
 
 -	Nº 5	Documentación y Optimización	6	Diciembre – Enero 
 -	Nº 6	Diseño y Realización de Pruebas	6	Enero
@@ -58,16 +58,16 @@ Nota de evaluación = 60% nota del examen + 40% nota de las prácticas.
 	-	Tercera evaluación: 
 Nota de evaluación = 60% nota del examen + 40% nota de las prácticas.
 
-6. Evaluación final
-La forma de obtener la nota final del módulo será la siguiente:
--	Para el alumnado que conserva el derecho a evaluación continua:
+6. Evaluación final: 
+-	La forma de obtener la nota final del módulo será la siguiente:
+	-	Para el alumnado que conserva el derecho a evaluación continua:
 Para aprobar el módulo será necesario tener una nota de al menos 4 puntos sobre 10 en cada una de las tres evaluaciones, obteniéndose la nota final mediante la siguiente expresión:
 Calificación del módulo = (NP+NS+NT)/3
 Siendo NP, NS y NT las notas de primera evaluación, segunda evaluación y tercera evaluación respectivamente. 
 En el cálculo de la nota final del módulo profesional se utilizarán las notas obtenidas en cada evaluación, sin redondeo y con dos decimales, y no las indicadas en los boletines de notas. Si el resultado de la ponderación anterior diera una nota inferior a 5 puntos sobre 10, se deberá realizar el examen final.
--	Para el alumnado que ha perdido el derecho a evaluación continua:
+	-	Para el alumnado que ha perdido el derecho a evaluación continua:
 Para aprobar el módulo será necesario obtener una nota mínima de 5 puntos sobre 10 en el examen final en cualquiera de las convocatorias disponibles. En estas pruebas se evaluará exclusivamente la realización del examen, que puede constar de una parte práctica y otra teórica referidas ambas a los contenidos establecidos en la programación. La prueba será única y general de todo el curso.
--	Para el alumnado que tiene que presentarse al examen final:
+	-	Para el alumnado que tiene que presentarse al examen final:
 Para aprobar el módulo será necesario obtener una nota mínima de 5 puntos sobre 10 en el examen final. En esta prueba se evaluará exclusivamente la realización del examen, que puede constar de una parte práctica y otra teórica referidas ambas a los contenidos establecidos en la programación. La prueba será única y general de todo el curso. 
 Criterios para aplicar el redondeo de las notas:
 La nota media de cada evaluación así como las notas finales del módulo se calcularán con dos decimales. Los decimales obtenidos en el cálculo de la nota se redondearán al entero más próximo aplicando los criterios establecidos para el redondeo de cifras. Si la parte decimal se encuentra entre 00 y 49, se redondeará al entero inferior. En caso contrario, si la parte decimal se encuentra entre 50 y 99, se redondeará al entero superior.
@@ -77,8 +77,8 @@ La nota media de cada evaluación así como las notas finales del módulo se cal
 -	Todas y cada una de las faltas de asistencia deben ser justificadas siguiendo el modelo de justificación que se encuentra disponible en conserjería y/o secretaría, junto con los documentos acreditativos que justifiquen la ausencia. Ambos documentos deberán ser entregados al tutor después de haberlos mostrado a los profesores a los que haya influido la ausencia.
 -	Además de la pérdida de evaluación continua al superar el 15% del total de horas anuales del módulo, la ausencia injustificada reiterada durante 10 días consecutivos puede suponer la anulación de matrícula por inasistencia. Transcurridos diez días lectivos consecutivos sin asistir, el centro docente solicitará por escrito al alumno o alumna o a sus representantes legales su inmediata incorporación y le comunicará que, en caso de no producirse ésta, excepto por causa debidamente justificada, se procederá a la anulación de su matrícula por inasistencia. Una vez enviada la comunicación, se dispondrá de tres días naturales para presentar alegaciones aportando la documentación que se estime oportuna. Transcurrido dicho plazo y teniendo en cuenta las alegaciones y la documentación aportada, el Director del centro docente resolverá lo que proceda.
 
-8. Renuncia a convocatorias.
-El alumnado puede renunciar a las convocatorias, ya sea a la primera, a la segunda o a las dos. Dicha renuncia permite no perder convocatoria y deberá realizarse en los plazos legalmente establecidos a tal efecto. 
+8. Renuncia a convocatorias:
+-	El alumnado puede renunciar a las convocatorias, ya sea a la primera, a la segunda o a las dos. Dicha renuncia permite no perder convocatoria y deberá realizarse en los plazos legalmente establecidos a tal efecto. 
 
 9. Uso de materiales. 
 -	Es obligatorio realizar un buen uso de instalaciones y material.
