@@ -42,14 +42,15 @@ PRESENTACIÓN E INFORMACIÓN DEL MÓDULO DE ENTORNOS DE DESARROLLO
 - Bibliografía de apoyo: Alicia Ramos Martín y María Jesús Ramos Martín (2014). Entornos de Desarrollo. Editorial Garceta. 
 
 4. Metodología de trabajo en clase.
-Al tratarse de un módulo en el que es básica la realización de actividades y prácticas para conseguir soltura y destreza en las tecnologías estudiadas, las clases se estructurarán generalmente de la siguiente manera:
--	En primer lugar se presentará la teoría necesaria para la realización de las actividades y prácticas que vayan a realizarse ese día y sucesivos. La teoría irá acompañada de ejemplos que ilustren lo explicado. 
--	En segundo lugar, se pondrá en práctica lo aprendido a través de diferentes actividades y el alumnado deberá resolver los ejercicios propuestos.
+-	Al tratarse de un módulo en el que es básica la realización de actividades y prácticas para conseguir soltura y destreza en las tecnologías estudiadas, las clases se estructurarán generalmente de la siguiente manera:
+	-	En primer lugar se presentará la teoría necesaria para la realización de las actividades y prácticas que vayan a realizarse ese día y sucesivos. La teoría irá acompañada de ejemplos que ilustren lo explicado. 
+	-	En segundo lugar, se pondrá en práctica lo aprendido a través de diferentes actividades y el alumnado deberá resolver los ejercicios propuestos.
 -	A lo largo del curso se propondrán una serie de actividades de entrega obligatoria que serán evaluadas y formarán parte de la nota de la evaluación en la que se realicen.
 -	Es importante realizar las actividades propuestas en clase para afianzar la teoría explicada por el profesor.
 -	El profesor utilizará presentaciones a la hora de explicar los contenidos. Dichas presentaciones estarán disponibles tanto en una carpeta común creada con ese objetivo, como en la URL facilitada en el punto 1 de este documento.
 
-5. Evaluaciones intermedias.
+5. Evaluaciones intermedias: 
+
 La calificación obtenida en cada evaluación por cada alumno y alumna será la siguiente:
 -	Primera evaluación: 
 Nota de evaluación = 70% nota del examen + 30% nota de las prácticas.
