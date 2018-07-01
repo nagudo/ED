@@ -27,14 +27,14 @@ PRESENTACIÓN E INFORMACIÓN DEL MÓDULO DE ENTORNOS DE DESARROLLO
 -	Nº 6	Diseño y Realización de Pruebas	6	Enero
 -	Nº 7	Pruebas Unitarias y TDD	7	Enero – Febrero 
 -	Nº 8	Diagramas de Clases	9	Febrero – Marzo
--	-	Examen 2 (UUDD.: 5, 6, 7 y 8)	2	Marzo
+	-	Examen 2 (UUDD.: 5, 6, 7 y 8)	2	Marzo
 -	Nº 9	Diagramas de Comportamiento	9	Marzo
 -	Nº 10	Metodologías Tradicionales	4	Abril
 -	Nº 11	Metodologías Ágiles	8	Abril – Mayo 
 -	Nº 12	Código Limpio	4	Mayo
--	-	Examen 3 (UUDD.: 9, 10, 11 y 12)	2	Mayo
--	-	1ª convocatoria ordinaria junio	3	Junio
--	-	2ª convocatoria ordinaria junio	3	Junio
+	-	Examen 3 (UUDD.: 9, 10, 11 y 12)	2	Mayo
+	-	1ª convocatoria ordinaria junio	3	Junio
+	-	2ª convocatoria ordinaria junio	3	Junio
 
 3. Materiales y recursos.
 - Presentaciones del profesor.
