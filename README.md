@@ -50,13 +50,12 @@ PRESENTACIÓN E INFORMACIÓN DEL MÓDULO DE ENTORNOS DE DESARROLLO
 -	El profesor utilizará presentaciones a la hora de explicar los contenidos. Dichas presentaciones estarán disponibles tanto en una carpeta común creada con ese objetivo, como en la URL facilitada en el punto 1 de este documento.
 
 5. Evaluaciones intermedias: 
-
-La calificación obtenida en cada evaluación por cada alumno y alumna será la siguiente:
--	Primera evaluación: 
+-	La calificación obtenida en cada evaluación por cada alumno y alumna será la siguiente:
+	-	Primera evaluación: 
 Nota de evaluación = 70% nota del examen + 30% nota de las prácticas.
--	Segunda evaluación: 
+	-	Segunda evaluación: 
 Nota de evaluación = 60% nota del examen + 40% nota de las prácticas.
--	Tercera evaluación: 
+	-	Tercera evaluación: 
 Nota de evaluación = 60% nota del examen + 40% nota de las prácticas.
 
 6. Evaluación final
